@@ -1,0 +1,9 @@
+[submodule "one-page-website"]
+	path = one-page-website
+	url = https://github.com/Bill-Earnest-Paul/one-page-website.git
+[submodule "cleaning-server-website"]
+	path = cleaning-server-website
+	url = https://github.com/Bill-Earnest-Paul/cleaning-server-website.git
+[submodule "online-shopping-website"]
+	path = online-shopping-website
+	url = https://github.com/Bill-Earnest-Paul/online-shopping-website.git
