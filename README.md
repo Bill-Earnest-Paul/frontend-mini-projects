@@ -66,4 +66,4 @@ A responsive e-commerce front-end with product listings and a contact footer.
 
 **Bill Earnest Paul S**  
 M.Sc. Computer Science | Technical Support Specialist  
-[LinkedIn](#) · [Portfolio](#) · [GitHub](https://github.com/Bill-Earnest-Paul)
+[LinkedIn](https://www.linkedin.com/in/bill-earnest/) · [Portfolio](https://bill-earnest-paul.github.io/my-portfolio/) · [GitHub](https://github.com/Bill-Earnest-Paul)
